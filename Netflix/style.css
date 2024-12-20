@@ -1,0 +1,140 @@
+
+
+
+.Movie{
+    background-color: rgb(44, 78, 67);
+}
+.one{
+      
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(44, 78, 67);
+    margin: 50px;
+    border-radius: 80px;
+    color: white;
+    border-color: white;
+         
+}
+.two{
+    
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(44, 78, 67);
+    margin: 50px;
+    border-radius: 80px;
+    color: white;
+    border-color: white;
+         
+}
+.three{
+    display: inline-block;
+    width: 300px;
+    height: 50px;
+    background-color: rgb(44, 78, 67);
+    margin: 50px;
+    border-radius: 80px;
+    color: white;
+    border-color: white;      
+}
+.four{
+    height: 500px;
+    width: 300px;
+    border-radius: 50px;
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    margin: 0px;
+   
+}
+h1,ul,li{
+    display: inline-block;
+}
+ul{
+    
+    text-align: center;
+}
+li{
+    color: gray;
+    cursor: pointer;
+}
+li:hover{
+    color: white;
+}
+.container{
+    display: inline-block;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    border-color: white;
+    height: 40px;
+    width: 160px;
+    padding: 5px;
+    font-size: x-large;
+    align-items: 100px;  
+}
+.cantean{
+    display: inline-block;
+    border-radius: 10px;
+    color: rgb(0, 0, 0);
+    border-color: white;
+    height: 40px;
+    width: 160px;
+    padding: 5px;
+    font-size: x-large;
+    align-items: 100px;
+    margin-left:30px ; 
+}
+h2{
+    color: white;
+    border-radius: calc();
+}
+.First{
+    display: inline-block;
+    border: 20px;
+    padding: 10px;
+    border: 10px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 225px;
+    text-align: center;
+    margin: 5px;
+}
+.Dhanush{
+    display: inline-block;
+    border-radius: 10px;
+    border-color: white;
+    height: 40px;
+    width: 160px;
+    padding: 5px;
+    font-size: medium;
+    align-items: 100px;
+    margin-left:8px ; 
+    margin-top: 10px;
+    font-style: bold;
+    color: black;
+   
+}
+.dhanush-anchor  {
+    text-decoration: none;
+    color: black;
+}
+.Header{
+    background-color: black;
+    text-align: center;
+    border: 100px;
+    padding: 50px;
+    
+}
+.biriyani{
+    display: inline-block;
+    margin: 1px;
+    font-size: xx-large;
+    height: 40px;
+    width: 160px;
+    align-items: 200px;  
+    background-color:gray; 
+        
+}
